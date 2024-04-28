@@ -27,7 +27,7 @@ About me👘:
 
 
 ## My Skill Set  
-<table>  <tr>
+<table  border="0">  <tr>
     <td valign="top" width="100%">
       <div align="center">
         <h3>📈Languages</h3>
