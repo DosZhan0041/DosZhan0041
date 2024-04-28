@@ -17,7 +17,10 @@ About me👘:
 - 🖥️ React-Redux основной стэк!  
   
 
-- 🏅 Кроме программирование занимаюсь спортом.  
+- 🏅 Кроме программирование занимаюсь спортом.
+
+  
+- 📫 Как связаться со мной: <img src="https://img.shields.io/badge/instagram-#C71585?style=for-the-badge&logo=instagram&logoColor=#00FFFF"/>  
   
 
 <br/>  
