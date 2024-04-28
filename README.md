@@ -20,7 +20,19 @@ About me👘:
 - 🏅 Кроме программирование занимаюсь спортом.
 
   
-- 📫 Как связаться со мной: <img src="https://img.shields.io/badge/instagram-#C71585?style=for-the-badge&logo=instagram&logoColor=#00FFFF"/>  
+- 📫 Как связаться со мной:   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9&labelColor=8a3ab9&labelBorderRadius=6)](https://www.instagram.com/bauyrzhanuly_16) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc&labelColor=0088cc&labelBorderRadius=6)](https://t.me/bauyrzhanuly_16) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red&labelColor=red&labelBorderRadius=10)](mailto:dosikiliasov@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 <br/>  
