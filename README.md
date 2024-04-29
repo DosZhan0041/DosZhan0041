@@ -41,7 +41,7 @@ About me👘:
   
 
 <br/>  
-
+<hr>
 
 ## My Skill Set  
 <table>  <tr>
