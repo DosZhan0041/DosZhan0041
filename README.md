@@ -26,7 +26,7 @@ About me👘:
 
 
 
-
+![snake gif](https://github.com/DosZhan0041/DosZhan0041/blob/output/github-contribution-grid-snake.gif)
 
 
 
