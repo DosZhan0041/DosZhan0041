@@ -28,7 +28,7 @@
 - 🖥️ React-Redux основной стэк!  
   
 
-- 🏅 Кроме программирования занимаюсь спортом.
+- 🏅 Я постоянно стремлюсь к самосовершенствованию и расширению своих знаний.
 
   
 - 📫 Как связаться со мной:   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9&labelColor=8a3ab9&labelBorderRadius=6)](https://www.instagram.com/bauyrzhanuly_16) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc&labelColor=0088cc&labelBorderRadius=6)](https://t.me/bauyrzhanuly_16) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red&labelColor=red&labelBorderRadius=10)](mailto:dosikiliasov@gmail.com)
